@@ -1,0 +1,22 @@
+
+
+ul  li a{
+
+    padding: 10px;
+}
+
+
+ul  li  a:hover {
+
+
+    background-color: white;
+    border-radius: 5px;
+    color:blueviolet;
+}
+
+
+#check:checked ~ ul {
+
+
+    left: 0;
+}
